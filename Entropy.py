@@ -15,3 +15,5 @@ entropy = -(f_yes) * math.log2(f_yes) - (f_no) * math.log2(f_no)
 
 # Display the results
 print("Entropy: ", entropy)
+
+
