@@ -1,5 +1,6 @@
 import math
 
+
 p_yes = float(input("Enter p(yes): "))
 p_no = float(input("Enter p(no): "))
 
